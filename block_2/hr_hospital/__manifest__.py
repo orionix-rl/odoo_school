@@ -9,11 +9,8 @@
         'base'
     ],
 
-    'external_dependencies': {
-        'python': []
-    },
-
     'data': [
+        'data/hr_hospital_disease.xml',
         'security/ir.model.access.csv',
         'views/hr_hospital_menu.xml',
         'views/hr_hospital_visit_views.xml',
@@ -23,8 +20,7 @@
     ],
 
     'demo': [
-        'demo/hr.hospital.disease.xml',
-        'demo/hr.hospital.doctor.xml',
+        'demo/hr_hospital_doctor.xml',
         'demo/hr.hospital.patient.csv',
     ],
 
