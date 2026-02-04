@@ -1,0 +1,16 @@
+<odoo>
+    <record id="hr_hospital_doctor_1" model="hr.hospital.doctor">
+        <field name="name">John</field>
+        <field name="surname">Smith</field>
+    </record>
+
+    <record id="hr_hospital_doctor_2" model="hr.hospital.doctor">
+        <field name="name">Anna</field>
+        <field name="surname">Koval</field>
+    </record>
+
+    <record id="hr_hospital_doctor_3" model="hr.hospital.doctor">
+        <field name="name">Maksym</field>
+        <field name="surname">Ivanenko</field>
+    </record>
+</odoo>

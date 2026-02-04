@@ -1,0 +1,4 @@
+id,name,surname,date_of_birth,doctor_id:id
+hr_hospital_patient_1,Olha,Shevchenko,1994-05-12,hr_hospital.hr_hospital_doctor_1
+hr_hospital_patient_2,Andrii,Melnyk,1988-11-02,hr_hospital.hr_hospital_doctor_2
+hr_hospital_patient_3,Iryna,Bondar,2001-03-27,hr_hospital.hr_hospital_doctor_1
