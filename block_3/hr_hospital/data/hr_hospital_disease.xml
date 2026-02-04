@@ -1,0 +1,16 @@
+<odoo noupdate="1">
+    <record id="hr_hospital_disease_cough" model="hr.hospital.disease">
+        <field name="name">Cough</field>
+        <field name="description">Persistent coughing symptom.</field>
+    </record>
+
+    <record id="hr_hospital_disease_headache" model="hr.hospital.disease">
+        <field name="name">Headache</field>
+        <field name="description">Pain in the head.</field>
+    </record>
+
+    <record id="hr_hospital_disease_nausea" model="hr.hospital.disease">
+        <field name="name">Nausea</field>
+        <field name="description">Feeling of sickness with an inclination to vomit.</field>
+    </record>
+</odoo>
